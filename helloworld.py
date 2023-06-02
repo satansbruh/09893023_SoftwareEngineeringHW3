@@ -1,1 +1,2 @@
-print("hello world, Software Engineering Practice Assignment Three!")
+print("Hello World, Software Engineering Practice Assignment Three!")
+print("Assignment complete")
